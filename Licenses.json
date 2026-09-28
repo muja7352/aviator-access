@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "users": {
+    "MUJAHID-001": {
+      "enabled": true,
+      "expires": "2027-12-31T23:59:59Z"
+    },
+    "USER-002": {
+      "enabled": false,
+      "expires": null
+    }
+  }
+}
